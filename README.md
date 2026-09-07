@@ -37,7 +37,7 @@ Usage
 * Docker or Podman
 
   Just run `make docker` or `make podman`.
-
+<!-- 
 Font Awesome 5
 --------------
 **NOTE**:
@@ -79,7 +79,7 @@ i.e., the following 3 OTF files are needed:
 * `Font Awesome 5 Free-Solid-900.otf`
 * `Font Awesome 5 Brands-Regular-400.otf`
 
-</blockquote>
+</blockquote> -->
 
 ### Installation
 
